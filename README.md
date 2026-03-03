@@ -74,9 +74,21 @@ This project strengthened my understanding of structured Unity workflows, collab
 
 ## 📊 GitHub Stats
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjal6890&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjal6890&theme=tokyonight" alt="Pranjal's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal6890&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pranjal6890&theme=tokyonight&hide_border=true" alt="Pranjal's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjal6890&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjal6890&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -87,4 +99,4 @@ This project strengthened my understanding of structured Unity workflows, collab
 
 ---
 
-> “Building worlds, one frame at a time.”
+> "Building worlds, one frame at a time."
