@@ -3,7 +3,8 @@
 🎓 First-Year Undergraduate at IIT Jodhpur  
 🎮 Game Developer | 💻 C++ Enthusiast | 🧠 Exploring Computer Graphics  
 
-I enjoy building games from scratch and understanding systems deeply — from rendering pipelines to gameplay architecture and physics logic.
+I enjoy building games from scratch and understanding systems deeply —  
+from rendering pipelines to gameplay architecture and physics logic.
 
 ---
 
@@ -49,17 +50,17 @@ This project strengthened my understanding of structured Unity workflows, collab
 ## 🧪 Tech Stack
 
 ### 💻 Languages
-- C (Proficient)
-- C++ (Actively Learning & Applying)
-- C# (Unity Development)
-- HTML
-- Tailwind CSS
+- C  
+- C++  
+- C#  
+- HTML  
+- Tailwind CSS  
 
 ### 🛠️ Tools
-- Unity
-- SFML
-- SolidWorks
-- Git
+- Unity  
+- SFML  
+- Git  
+- SolidWorks  
 
 ---
 
@@ -68,6 +69,7 @@ This project strengthened my understanding of structured Unity workflows, collab
 - Computer Graphics  
 - Game Physics  
 - Systems Programming  
+- Real-Time Rendering  
 - Automotive Engineering  
 
 ---
@@ -75,19 +77,19 @@ This project strengthened my understanding of structured Unity workflows, collab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjal6890&theme=tokyonight" alt="Pranjal's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjal6890&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pranjal6890&theme=tokyonight&hide_border=true" alt="Pranjal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pranjal6890&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjal6890&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjal6890&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjal6890&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjal6890&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -99,4 +101,4 @@ This project strengthened my understanding of structured Unity workflows, collab
 
 ---
 
-> "Building worlds, one frame at a time."
+> *"Building worlds, one frame at a time."*
